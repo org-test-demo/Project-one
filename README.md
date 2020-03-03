@@ -1,2 +1,2 @@
 # Project-one
-first project repository in org-test-demo
+first project repository in org-test-demo yes
